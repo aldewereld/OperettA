@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/nl.uu.cs.operetta_1.0.0.qualifier.jar" id="nl.uu.cs.operetta" version="1.0.0.qualifier">
+      <category name="OperettA"/>
+   </feature>
+   <category-def name="OperettA" label="Organisation Modeling Tools">
+      <description>
+         OperettA tool.
+      </description>
+   </category-def>
+</site>

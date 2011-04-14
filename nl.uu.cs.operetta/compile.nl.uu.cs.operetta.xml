@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Compile nl.uu.cs.operetta" default="main">
+	<target name="main">
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.edit" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.psdeditor" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.diagram.ss" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.diagram.is" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.dashboard" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.aliveclipse.dashboard" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.editor" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.modeltracker" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.ontology" target="build.jars"/>
+		<ant antfile="build.xml" dir="../net.sf.ictalive.operetta.check" target="build.jars"/>
+	</target>
+</project>
