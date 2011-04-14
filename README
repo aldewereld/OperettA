@@ -1,0 +1,32 @@
+-------------------------------------------------------------------------
+	INTRODUCTION
+-------------------------------------------------------------------------
+
+OperettA is an IDE (Integrated Development Environment) developed to support 
+the design, analysis and development of agent organisations using the OperA 
+conceptual framework and methodology. It is intended to support software
+engineers and developers in both developing and documenting the various
+aspects of specifying and designing a multi-agent organisation.
+
+-------------------------------------------------------------------------
+	HOW TO USE
+-------------------------------------------------------------------------
+
+This git repository contains the sources of the OperettA toolkit. If
+you are only interested in using the OperettA tools, please use the 
+instructions listed on the website
+	http://www.cs.uu.nl/research/projects/opera/
+
+These sources are intended for the development of OperettA. 
+OperettA is based on the EMF (Eclipse Modelling Framework), and is
+packaged as Eclipse projects. To start development of OperettA 
+clone the git repository, and load the directory into Eclipse 
+("Import" > "Existing projects into workspace").
+
+-------------------------------------------------------------------------
+	LICENSE
+-------------------------------------------------------------------------
+
+OperettA has been developed as part of the European FP7 project
+ICT-ALIVE. The sources are licensed under GNU LGPL.
+
