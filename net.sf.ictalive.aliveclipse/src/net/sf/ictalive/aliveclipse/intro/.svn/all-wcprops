@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/project.alive/!svn/ver/1163/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro
+END
+Application.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/project.alive/!svn/ver/554/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro/Application.java
+END
+ApplicationWorkbenchWindowAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/project.alive/!svn/ver/1163/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro/ApplicationWorkbenchWindowAdvisor.java
+END
+Perspective.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/project.alive/!svn/ver/791/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro/Perspective.java
+END
+DynamicContentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/project.alive/!svn/ver/554/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro/DynamicContentProvider.java
+END
+ApplicationActionBarAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/project.alive/!svn/ver/1163/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro/ApplicationActionBarAdvisor.java
+END
+ApplicationWorkbenchAdvisor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/project.alive/!svn/ver/601/net.sf.ictalive.aliveclipse/src/net/sf/ictalive/aliveclipse/intro/ApplicationWorkbenchAdvisor.java
+END

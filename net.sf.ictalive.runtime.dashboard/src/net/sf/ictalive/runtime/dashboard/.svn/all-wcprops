@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard
+END
+ServicePlatformConfigureAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/project.alive/!svn/ver/793/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ServicePlatformConfigureAction.java
+END
+RuntimeModelFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/RuntimeModelFigure.java
+END
+Messages.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/Messages.java
+END
+ServicePlatformRestartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/project.alive/!svn/ver/1005/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ServicePlatformRestartAction.java
+END
+ServicePlatformStopAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/project.alive/!svn/ver/1005/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ServicePlatformStopAction.java
+END
+DeployServiceAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/project.alive/!svn/ver/1005/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/DeployServiceAction.java
+END
+DashboardPart.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/project.alive/!svn/ver/761/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/DashboardPart.java
+END
+DashboardActionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/project.alive/!svn/ver/733/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/DashboardActionRegistry.java
+END
+RuntimeDashboardMediator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/RuntimeDashboardMediator.java
+END
+ServicePlatformStartAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/project.alive/!svn/ver/1005/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ServicePlatformStartAction.java
+END
+messages.properties
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/messages.properties
+END
+ConfigureEventLogAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/project.alive/!svn/ver/1147/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ConfigureEventLogAction.java
+END
+ConfigureEventCollectorAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/project.alive/!svn/ver/1147/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ConfigureEventCollectorAction.java
+END
+ConfigureEventBusAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/project.alive/!svn/ver/1147/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/ConfigureEventBusAction.java
+END
+RuntimeDashboardState.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/RuntimeDashboardState.java
+END
+RuntimeDashboardFigure.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/RuntimeDashboardFigure.java
+END
+Plugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/project.alive/!svn/ver/1153/net.sf.ictalive.runtime.dashboard/src/net/sf/ictalive/runtime/dashboard/Plugin.java
+END
