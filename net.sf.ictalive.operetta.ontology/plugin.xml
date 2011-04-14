@@ -51,18 +51,6 @@
       </handler>
    </extension>
 
-   <extension
-         point="net.sf.ictalive.aliveclipse.dashboard.actions">
-      <client
-            class="net.sf.ictalive.operetta.ontology.ExportDashboardAction">
-      </client>
-   </extension>
 
-   <extension
-         point="net.sf.ictalive.aliveclipse.dashboard.actions">
-      <client
-            class="net.sf.ictalive.operetta.ontology.ImportDashboardAction">
-      </client>
-   </extension>
 
 </plugin>

@@ -18,6 +18,5 @@ Require-Bundle: org.eclipse.core.runtime,
  org.eclipse.ui.ide;visibility:=reexport,
  org.eclipse.emf.transaction;bundle-version="1.3.0",
  net.sf.ictalive.operetta.diagram.ss;bundle-version="1.0.0",
- net.sf.ictalive.operetta.diagram.is;bundle-version="1.0.0",
- net.sf.ictalive.aliveclipse.dashboard;bundle-version="2.0.0"
+ net.sf.ictalive.operetta.diagram.is;bundle-version="1.0.0"
 Bundle-ActivationPolicy: lazy

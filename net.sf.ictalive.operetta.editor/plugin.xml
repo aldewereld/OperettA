@@ -62,12 +62,6 @@
       </menuContribution>
    </extension>
    
-   <extension
-         point="net.sf.ictalive.aliveclipse.dashboard.actions">
-      <client
-            class="net.sf.ictalive.operetta.editor.dashboard.CreateOrganisationDashboardAction">
-      </client>
-   </extension>
    
    <extension point="org.eclipse.ui.perspectiveExtensions"> 
       <perspectiveExtension 
