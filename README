@@ -23,6 +23,10 @@ packaged as Eclipse projects. To start development of OperettA
 clone the git repository, and load the directory into Eclipse 
 ("Import" > "Existing projects into workspace").
 
+Make sure you are using a modeling version of Eclipse, and install
+Xtend (part of the Xtext packages, to install via the "Install Modeling
+Components" feature of Eclipse) and GMF (download from the main repository for most installations of Eclipse, of from http://download.eclipse.org/modeling/gmp/gmf-tooling/updates/dev-snapshots/ for Indigo). 
+
 -------------------------------------------------------------------------
 	LICENSE
 -------------------------------------------------------------------------
